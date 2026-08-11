@@ -1,9 +1,10 @@
-function aquarium(daljina, shirina, visochina, procenti) {
-    obem_na_akvariuma = daljina * shirina * visochina;
-    obem_v_litri = obem_na_akvariuma / 1000;
-    procenti = procenti / 100;
-    nujni_litri = obem_v_litri * (1 - procenti);
-    console.log(nujni_litri);
+function aquarium(length, width, height, percentage) {
+    let aquariumVolume = length * width * height;
+    let volumeInLiters = aquariumVolume / 1000;
+    percentage = percentage / 100;
+    let requiredLiters = volumeInLiters * (1 - percentage);
+
+    console.log(requiredLiters);
 }
 
-aquarium(85,75,47,17);
+aquarium(85, 75, 47, 17);
