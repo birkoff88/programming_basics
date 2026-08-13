@@ -2,7 +2,7 @@
 
 A collection of my **Software University (SoftUni) Programming Basics** exercises, implemented in multiple programming languages.
 
-The goal is to practice the same fundamental programming concepts across different languages and compare their syntax and approaches.
+The goal is to practice the same basic programming concepts across different languages and compare their syntax and approaches.
 
 ## Languages
 
