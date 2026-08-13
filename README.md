@@ -1,2 +1,22 @@
 # programming_basics
-PB basics overvew at few languages (Python, JavaScript, Go, C++) at Software University Bulgaria
+
+A collection of my **Software University (SoftUni) Programming Basics** exercises, implemented in multiple programming languages.
+
+The goal is to practice the same fundamental programming concepts across different languages and compare their syntax and approaches.
+
+## Languages
+
+- JavaScript
+- Python
+- Go
+- C++
+
+## Topics
+
+- Variables and data types
+- Conditional statements
+- Loops
+- Basic calculations
+- Simple problem solving
+
+Exercises are based on the **SoftUni Programming Basics curriculum**.
