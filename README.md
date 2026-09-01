@@ -6,8 +6,8 @@ The goal is to practice the same basic programming concepts across different lan
 
 ## Languages
 
-- JavaScript
 - Python
+- JavaScript
 - Go
 - C++
 
