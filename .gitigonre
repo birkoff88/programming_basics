@@ -1,0 +1,30 @@
+# Python
+**/.venv/
+**/__pycache__/
+*.py[cod]
+
+# JavaScript / Node
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# C / C++
+**/build/
+**/cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+
+# Go
+**/bin/
+*.exe
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
