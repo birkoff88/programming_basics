@@ -1,1 +1,1 @@
-print("Hello SoftUni")
+print("hello SoftUni")
